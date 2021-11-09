@@ -1,5 +1,8 @@
 #header {
-    background: url(../images/laptop.jpg) center center / cover no-repeat;
+    /* background-image: url(../images/laptop.jpg) center center / cover no-repeat; */
+    background-image: url('../images/laptop.jpg');
+    background-position: center;
+    background-size: cover;
     color: white;
 }
 
